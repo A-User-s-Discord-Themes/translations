@@ -14,7 +14,7 @@
     content: "\a Bash ver " var(--bash-version) " by A user#6560";
 }
 
-[lang=urlang].itemActive-2V2HNc::before{
+[lang=urlang] .itemActive-2V2HNc::before{
     content: "Already set";
 }
 
