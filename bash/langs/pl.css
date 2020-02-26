@@ -14,7 +14,7 @@
     content: "\a Bash wer " var(--bash-version) " tworzony przez A user#6560";
 }
 
-[lang=pl].itemActive-2V2HNc::before{
+[lang=pl] .itemActive-2V2HNc::before{
     content: "Już ustawiony";
 }
 
