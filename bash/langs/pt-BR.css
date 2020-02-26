@@ -14,7 +14,7 @@
     content: "\a Bash ver " var(--bash-version) " por A user#6560";
 }
 
-[lang=pt-BR].itemActive-2V2HNc::before{
+[lang=pt-BR] .itemActive-2V2HNc::before{
     content: "Selecionado";
 }
 
