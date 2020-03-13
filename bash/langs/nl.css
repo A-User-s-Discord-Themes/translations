@@ -1,9 +1,9 @@
 [lang=nl]{
-    --translation-lang-contains: "Contains bash translations";
-    --translation-add-role: "Add a role";
-    --translation-user-settings-empty: 'Somehow you got this. \A Looks like that you found my easter egg \a \a \a - A user, Bash dev';
-    --translation-search-something: "Type to search something";
-    --translation-theme-ver: "\a Bash ver " var(--bash-version) " by A user#6560";
-    --translation-status-already-set: "Already set";
-    --translation-metadata-update: "The Bash METADATA was updated. Plase redownload the theme";
+    --translation-lang-contains: "Bevat bash vertalingen";
+    --translation-add-role: "Voeg een rol toe";
+    --translation-user-settings-empty: 'Op de een of andere manier heb je dit gekregen. \A Het lijkt erop dat je mijn easter egg hebt gevonden \a \a \a - A user, Bash ontwikkelaar';
+    --translation-search-something: "Typ hier om iets op te zoeken";
+    --translation-theme-ver: "\a Bash versie " var(--bash-version) " door A user#6560";
+    --translation-status-already-set: "Al ingesteld";
+    --translation-metadata-update: "De Bash METADATA is geupdated. Download alstublieft het thema opnieuw";
 }
