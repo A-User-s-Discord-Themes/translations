@@ -1,0 +1,9 @@
+[lang*=en]{
+    --translation-lang-contains: "Contains bash translations";
+    --translation-add-role: "Add a role";
+    --translation-user-settings-empty: 'Somehow you got this. \A Looks like that you found my easter egg \a \a \a - A user, Bash dev';
+    --translation-search-something: "Type to search something";
+    --translation-theme-ver: "\a Bash ver " var(--bash-version) " by A user#6560";
+    --translation-status-already-set: "Already set";
+    --translation-metadata-update: "The Bash METADATA was updated. Plase redownload the theme";
+}
